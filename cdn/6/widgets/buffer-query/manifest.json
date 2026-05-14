@@ -1,0 +1,22 @@
+{
+  "name": "buffer-query",
+  "label": "Buffer Query",
+  "type": "widget",
+  "version": "1.20.0",
+  "exbVersion": "1.20.0",
+  "author": "",
+  "description": "Click a point on one layer to create buffer rings and count points in another layer",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 400
+  }
+}
